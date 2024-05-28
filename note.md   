@@ -1,0 +1,4 @@
+1. /opt/lampp/  --> go to this path
+2. sudo ./manager-linux-x64.run --> run this
+3. sudo chmod -R 777 htdocs --> apply read, write, execute permission to all the
+files and folder in htdocs
